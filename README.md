@@ -11,7 +11,7 @@ I know about:
 
 I am currently pursuing B.Tech. in Computer Engg (3rd year) from <a href="http://www.gbpuat.ac.in">GBPUA&T</a>.
 
-- 🌱 I’m currently learning: Flutter
+- 🌱 I’m currently learning: react.js
 
 ![Pawandeep's stats](https://github-readme-stats.vercel.app/api?username=pawandeep-prog&theme=merko&show_icons=true&hide=contribs)
 
