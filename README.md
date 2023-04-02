@@ -15,7 +15,7 @@ I am currently pursuing B.Tech. in Computer Engg (3rd year) from <a href="http:/
 
 ![Pawandeep's stats](https://github-readme-stats.vercel.app/api?username=pawandeep-prog&theme=merko&show_icons=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawandeep-prog&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawandeep-prog&layout=compact&theme=merko&hide=jupyter+notebook)
 
 if you want to contact me then you may follow below links:
 - facebook : https://m.facebook.com/proogramminghub
